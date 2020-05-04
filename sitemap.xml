@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://ibccrecifesite.com.br/index.html</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ibccrecifesite.com.br/images/logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ibccrecifesite.com.br/ibcc-recife---atividades.html</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ibccrecifesite.com.br/images/logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ibccrecifesite.com.br/ibcc-recife---doa%C3%A7%C3%A3o.html</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ibccrecifesite.com.br/images/logo.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
